@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-gittin started
+Just gittin started. I <3 music.
